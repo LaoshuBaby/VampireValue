@@ -1,17 +1,26 @@
-## 类似的评测问卷
+# VampireValue
 
-//感觉这个repo越做越大，快要喧宾夺主了，如果后期有人注意到这个repo，那么本repo将考虑独立出来作为一个社科方向的研究性repo出现，而不是以聊动漫的娱乐性质出现。
-//如果没人，那就……当是死宅捏人设的参考就行了
-//再次感谢Tangwenrao孵化器的支持（？）
+## 介绍
 
-### 左派测试：
-测试地址：https://leftvalues.github.io/
-Repo页面：https://github.com/LeftValues/leftvalues.github.io
-### 8values测试：
-测试地址：https://8values.github.io
-Repo页面：https://github.com/8values/8values.github.io
+你是否想过
 
-计算方法
+吸血鬼是否真的存在这个世界上？
+
+答案显然是否的。那么，文学作品中的吸血鬼形象，又是人们按照什么标准来塑造的呢？
+
+他们之间又有什么共同的地方呢？而不同又是什么程度上的？
+
+这些具有共性的特点，是人们因为何种理由而塑造出来的？
+
+为此，我们准备了这份VampireValue，作为一份对文学艺术作品中吸血鬼形象分类判别以及判断相似关系远近的问卷，并构建了一个粗糙的数学模型来进行计算。
+
+因为判断项目的不同，因此模型结果仅针对同版本的量表有效。
+
+
+
+
+
+## 计算方法
 
 本repo的数值并非从零开始的得分，仅保证每个选项之间等间距，可以用作不同的两个角色之间计算差异的大小
 
@@ -56,3 +65,26 @@ int main(void)
 ————
 
 那么，究竟最终将采取什么算法，也希望有擅长数学和统计的朋友能帮忙指点
+
+
+
+## 类似的评测问卷
+
+本repo将考虑独立出来作为一个社科方向的研究性repo出现，而不是以聊动漫的娱乐性质出现。
+如果没人看，那就……当是死宅捏人设的参考就行了
+
+### 左派测试：
+
+测试地址：https://leftvalues.github.io/
+Repo页面：https://github.com/LeftValues/leftvalues.github.io
+
+### 8values测试：
+
+测试地址：https://8values.github.io
+Repo页面：https://github.com/8values/8values.github.io
+
+
+
+## 鸣谢
+
+感谢[tangwenrao/tricks](https://github.com/tangwenrao/tricks)对本项目的支持和孵化
